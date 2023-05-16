@@ -1,9 +1,6 @@
-###################
-bootstrap-crud-ci3
-###################
+# bootstrap-crud-ci3
 
-*******************
-Release Information
-*******************
+
+### Release Information
 
 buat crud phonebook dengan bootstrap dan ci3
